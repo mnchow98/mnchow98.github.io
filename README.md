@@ -1,5 +1,5 @@
 # Matthew Chow's Portfolio
-Website link: [mnchow98.github.io](https://mnchow98.github.io/portfolio/)
+Website link: [https://mnchow98.github.io/portfolio/](https://mnchow98.github.io/portfolio/)
 
 OR 
 
