@@ -1,2 +1,2 @@
 # Matthew Chow's Portfolio
-[mnchow98.github.io](https://username.github.io)
+Website link: [mnchow98.github.io](https://mnchow98.github.io/portfolio/)
